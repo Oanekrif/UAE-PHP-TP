@@ -105,3 +105,9 @@ This TP helps students to:
 - Understand the limitations of PHP’s mail() function
 
 - Learn good practices in server-side web development
+
+---
+
+## Contributing:
+Contributions are welcome! If you'd like to add more features or improve the project, feel free to fork the repository and create a pull request. <br>
+If you lake it Give me some ⭐
