@@ -110,4 +110,4 @@ This TP helps students to:
 
 ## Contributing:
 Contributions are welcome! If you'd like to add more features or improve the project, feel free to fork the repository and create a pull request. <br>
-If you lake it Give me some ⭐
+**`If you like it give me some ⭐`**
