@@ -36,8 +36,12 @@ When the form is submitted, the following actions are performed:
 - The interface is simple, readable, and responsive
 - Code duplication is avoided to keep the project clean and structured
 
+<!--
 ![Forme](img/Forme.png)
 ![Display](img/Display.png)
+-->
+<img src="img/Forme.png" alt="Contact Form" width="400"> <img src="img/Display.png" alt="Display Form" width="400">
+
 ---
 
 ## Email Sending Result
